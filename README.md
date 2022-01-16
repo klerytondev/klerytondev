@@ -1,7 +1,6 @@
 ## Hello! I'm Kleryton Souza! 
 ### Welcome to my GitHub profile 👋
 
-<!--
 **klerytondev/klerytondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -43,4 +42,3 @@ Learning is the word that is most present in my daily life, and the challenges I
 </div>
 
 
--->
