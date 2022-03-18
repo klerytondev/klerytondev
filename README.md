@@ -1,10 +1,9 @@
 ## Hello! I'm Kleryton Souza! 
 ### Welcome to my GitHub profile 👋
 
-• I'm 31 years old<br>
+• I'm 32 years old<br>
 • Graduated in Computer Science at Federal University of Paraiba<br>
 • Brazilian<br>
-• Currently on the Citi IT Experts trail<br>
 • Back End Java Developer<br>
 
 :thought_balloon: Learning is the word that is most present in my daily life, and the challenges I have in it keep me willing to learn more and more.
