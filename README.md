@@ -6,7 +6,7 @@
 • Brazilian<br>
 • Back End Java Developer<br>
 
-:thought_balloon: Learning is the word that is most present in my daily life, and the challenges I have in it keep me willing to learn more and more.
+:thought_balloon: Aprender é a palavra que está mais presente no meu dia a dia, e os desafios que tenho nela me mantêm disposta a aprender cada vez mais..
 
 ##
 
