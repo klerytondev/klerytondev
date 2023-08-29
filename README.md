@@ -1,10 +1,11 @@
 ## Hello! I'm Kleryton Souza! 
 ### Welcome to my GitHub profile 👋
 
-• I'm 32 years old<br>
+• I'm 33 years old<br>
 • Graduated in Computer Science at Federal University of Paraiba<br>
 • Brazilian<br>
-• Back End Java Developer<br>
+• Software Engineerr<br>
+• Data Engineer r<br>
 
 :thought_balloon: Aprender é a palavra que está mais presente no meu dia a dia, e os desafios que tenho nela me mantêm disposta a aprender cada vez mais.
 
@@ -18,6 +19,10 @@
   <img align="center" alt="kleryton-postgres" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="kleryton-Github" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="kleryton-Github" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="kleryton-Github" height="30" width="40" <img src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png">
+  <img align="center" alt="kleryton-Github" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="kleryton-Github" height="30" width="40" <img src="https://deze4bkinrapp.cloudfront.net/uploads/polyworks/_logoXs/Loop-2.png">
+  
     
 </div>
   
@@ -25,12 +30,10 @@
   
 ### Estou aprendendo
 <div>
-  <img align="center" alt="kleryton-Github" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg">
-  <img align="center" alt="kleryton-oracle" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img align="center" alt="python" height="30" width="40" <img src="https://img.itch.zone/aW1hZ2UvMTIzMzU0OC83MTkzMjIzLnBuZw==/347x500/bOhDrd.png">
+  <img align="center" alt="jupiter" height="30" width="40" <img src="https://img.icons8.com/fluency/48/null/jupyter.png">
   <img align="center" alt="kleryton-JS" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="kleryton-postgres" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="kleryton-postgres" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="kleryton-postgres" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
          
 </div>
   
