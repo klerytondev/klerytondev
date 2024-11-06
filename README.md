@@ -4,7 +4,8 @@
 • I'm 34 years old<br>
 • Graduated in Computer Science at Federal University of Paraiba<br>
 • Brazilian<br>
-• Software Engineerr<br>
+• Software Engineer<br>
+• LLM<br>
 • GenAI<br>
 • Data Engineer<br>
 
