@@ -5,6 +5,7 @@
 • Graduated in Computer Science at Federal University of Paraiba<br>
 • Brazilian<br>
 • Software Engineerr<br>
+• GenAI<br>
 • Data Engineer<br>
 
 :thought_balloon: Aprender é a palavra que está mais presente no meu dia a dia, e os desafios que tenho nela me mantêm disposta a aprender cada vez mais.
